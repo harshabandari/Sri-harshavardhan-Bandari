@@ -2,7 +2,7 @@
 
 ##  Manual Tester
 
-### 👨‍💻 About Me
+### About Me
 - Manual Testing
 - Functional Testing
 - Smoke Testing
@@ -23,11 +23,11 @@
 ---
 
 ## Testing Skills
-✔️ Functional Testing  
-✔️ Smoke Testing  
-✔️ API Testing  
-✔️ UI Testing  
-✔️ Manual Testing
+ Functional Testing  
+ Smoke Testing  
+ API Testing  
+ UI Testing  
+ Manual Testing
 
 
 ---
